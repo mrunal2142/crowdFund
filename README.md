@@ -1,4 +1,4 @@
-## Blockchain Based Property Co-own System | Module (1/2)
+## Blockchain Based joint Ownership of Property System | Module (1/2)
 
 Blockchain Based Joint Ownership of Property System 
 
