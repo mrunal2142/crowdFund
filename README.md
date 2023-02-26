@@ -1,14 +1,14 @@
-## Blockchain Based joint Ownership of Property System | Module (1/2)
+## Blockchain Based joint Ownership of Property System | Module (1/3)
 
 Blockchain Based Joint Ownership of Property System 
 
 ### Tech Stack
-> Solidity
-> React | Vite
-> Thirdweb
-> Javascript
-> Tailwind css
-> Metamask
+* Solidity
+* React | Vite
+* Thirdweb
+* Javascript
+* Tailwind css
+* Metamask
 
 > Co-Owning a property - 
     A co-owner is an individual or group that shares ownership of an asset with another individual or group. 
@@ -18,7 +18,7 @@ The project is planned and designed with consideration of functional and non-fun
 
 Project is divided into 3 modules :
 
-> Currently the team carrying out Research and Development of module 2 and 3.
+Currently the team carrying out Research and Development of module 2 and 3.
 
 > Module 1 : 
     Client side (Implemented)
@@ -32,5 +32,6 @@ Project is divided into 3 modules :
     Creating a webapp + Mobile version (RnD)
     Here the client can book the slot to use 'Co-owned property' with consideration of co-owners. 
 
+---
 
 
